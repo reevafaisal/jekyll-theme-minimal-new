@@ -224,8 +224,9 @@ kbd {
 }
 
 .sidebar {
-  width: 250px;
+  width: 180px;
   float: left;
+  margin-left: -20px;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
   top: 0;
@@ -277,8 +278,9 @@ hr {
 }
 
 .sidebar-footer {
-  width: 250px;
+  width: 180px;
   float: left;
+  margin-left: -20px;
   -webkit-font-smoothing: subpixel-antialiased;
   flex-basis: content;
 }
@@ -289,7 +291,7 @@ hr {
 
 @media print, screen and (max-width: 960px) {
   .wrapper {
-    width: 810px;
+    width: 910px;
   }
 
   .sidebar {
