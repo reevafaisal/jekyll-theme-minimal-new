@@ -293,12 +293,15 @@ hr {
   }
 
   .sidebar {
-    width: 200px;
-    height: calc(100vh - 50px);  
+    width: 150px;
+    height: calc(100vh - 50px);
+    margin-left: -15px;
+    
   }
 
   section {
     width: 375px;
+    margin-left: -15px;
   }
 
   .sidebar-footer {
