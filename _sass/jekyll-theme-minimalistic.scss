@@ -300,7 +300,8 @@ hr {
   }
 
   section {
-    width: 375px;
+    // width: 375px;
+    calc(100% - 160px);
     margin-left: -15px;
   }
 
