@@ -224,7 +224,7 @@ kbd {
 }
 
 .sidebar {
-  width: 180px;
+  width: 250px;
   float: left;
   margin-left: -20px;
   position: fixed;
@@ -256,7 +256,7 @@ strong {
 }
 
 section {
-  width: 650px;
+  width: 850px;
   float: right;
   padding-bottom:30px;
 }
@@ -278,7 +278,7 @@ hr {
 }
 
 .sidebar-footer {
-  width: 180px;
+  width: 250px;
   float: left;
   margin-left: -20px;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -295,7 +295,7 @@ hr {
   }
 
   .sidebar {
-    width: 150px;
+    width: 250px;
     height: calc(100vh - 50px);
     margin-left: -15px;
     
